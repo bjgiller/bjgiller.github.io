@@ -24,14 +24,20 @@
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
-      <div class="sidebar-heading">Start Bootstrap </div>
+      <div class="sidebar-heading">SWDAA </div>
       <div class="list-group list-group-flush">
-        <a href="#" class="list-group-item list-group-item-action bg-light">Dashboard</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Shortcuts</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Overview</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Events</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Profile</a>
-        <a href="#" class="list-group-item list-group-item-action bg-light">Status</a>
+        <a href="index.html" class="list-group-item list-group-item-action bg-light">Home</a>
+        <a href="about.html" class="list-group-item list-group-item-action bg-light">About</a>
+        <a href="bod.html" class="list-group-item list-group-item-action bg-light">Board of Directors</a>
+        <a href="membership.html" class="list-group-item list-group-item-action bg-light">Membership</a>
+        <a href="join.html" class="list-group-item list-group-item-action bg-light">Join SWDAA!</a>
+        <a href="programs.html" class="list-group-item list-group-item-action bg-light">Programs</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">SWDAA For Education Spotlight</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">Striving for Greater Professionals</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">Education</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">Resources</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">Shop</a>
+        <a href="#" class="list-group-item list-group-item-action bg-light">Contact Us</a>
       </div>
     </div>
     <!-- /#sidebar-wrapper -->
