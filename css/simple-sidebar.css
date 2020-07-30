@@ -12,7 +12,12 @@
    margin-top:30px;
  }
 
- p { color: #7a7c7f; font-size: 20px; font-family: "Libre Baskerville", serif; line-height: 30px; text-shadow: 0 1px 1px #fff; padding-top: 20px; }
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
 
 #sidebar-wrapper {
   min-height: 100vh;
