@@ -19,7 +19,21 @@
   width: 75%;
 }
 
+body { background: whitesmoke !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+div { background: whitesmoke !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+a { background: whitesmoke !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+nav { background: whitesmoke !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+
+
+.centerbod {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
 #sidebar-wrapper {
+  background: whitesmoke !important;
   min-height: 100vh;
   margin-left: -15rem;
   -webkit-transition: margin .25s ease-out;
@@ -31,18 +45,22 @@
 #sidebar-wrapper .sidebar-heading {
   padding: 0.875rem 1.25rem;
   font-size: 1.2rem;
+  background: whitesmoke !important;
 }
 
 #sidebar-wrapper .list-group {
   width: 15rem;
+  background: whitesmoke !important;
 }
 
 #page-content-wrapper {
   min-width: 100vw;
+  background: whitesmoke !important;
 }
 
 #wrapper.toggled #sidebar-wrapper {
   margin-left: 0;
+  background: whitesmoke !important;
 }
 
 @media (min-width: 768px) {
