@@ -454,7 +454,7 @@ print 'It took ' + i + ' iterations to sort the deck.';
 									<ul>
 										<li><a href="index">Homepage</a></li>
 										<li><a href="boardofdirectors">Board of Directors</a></li>
-								        <li><a href="elections">Elections</a></li>
+								        <!-- <li><a href="elections">Elections</a></li> -->
 								
 										<li><a href="membership">Membership</a></li>
 										<li><a href="elements">Elements</a></li>
